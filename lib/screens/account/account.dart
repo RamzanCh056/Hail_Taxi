@@ -34,7 +34,7 @@ class _AccountState extends State<Account> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      "Ramzan ch ",
+                      "ZEESHAN FOOD APP",
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,

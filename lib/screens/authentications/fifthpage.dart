@@ -87,7 +87,7 @@ class _fifthState extends State<fifth> {
                     color: Colors.green,
                   ),
                   title: Text(
-                    "JustGrab",
+                    "THSCar",
                     style: TextStyle(
                       fontSize: 15.0,
                       fontWeight: FontWeight.bold,
@@ -123,7 +123,7 @@ class _fifthState extends State<fifth> {
                     color: Colors.blue,
                   ),
                   title: Text(
-                    "GrabCar Plus",
+                    "THSCar Plus",
                     style: TextStyle(
                       fontSize: 15.0,
                       fontWeight: FontWeight.bold,
@@ -167,7 +167,7 @@ class _fifthState extends State<fifth> {
                       style: ElevatedButton.styleFrom(
                         primary: Colors.green,
                       ),
-                      child: Text("Book JustGrab"),
+                      child: Text("Book THSCar"),
                     ),
                   ),
                 ],

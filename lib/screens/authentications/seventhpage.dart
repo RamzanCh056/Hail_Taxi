@@ -25,7 +25,7 @@ class _seventhState extends State<seventh> {
                 ),
                 height: 250.0,
                 child: Image(
-                  image: AssetImage("images/car.jpg"),
+                  image: AssetImage("images/cars.jpg"),
                   fit: BoxFit.fill,
                 ),
               ),
